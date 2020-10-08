@@ -1,2 +1,2 @@
-# ishita-calc
+# ishita-task2
 calculator
